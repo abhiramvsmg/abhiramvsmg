@@ -65,9 +65,7 @@
     <img src="https://img.shields.io/badge/Download%20Resume-36BCF7?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/abhiramvsmg/abhiramvsmg/blob/main/Abhiram%27s%20resume.pdf">
-    <img src="https://img.shields.io/badge/View%20Online-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
 </div>
 
 ---
@@ -98,9 +96,7 @@
 **Backend systems that handle real-world load.  
 Clean APIs. Secure architecture. Scalable design.**
 
-<a href="https://www.linkedin.com/in/abhiram-v-4a0055284/">
-  <img src="https://img.shields.io/badge/Let’s%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+
 
 <br/><br/>
 
