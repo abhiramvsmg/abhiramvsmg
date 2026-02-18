@@ -45,13 +45,16 @@
 ## 📊 GitHub Analytics
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhiramvsmg&show_icons=true&hide_border=true&title_color=36BCF7&icon_color=7C3AED&text_color=ffffff&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhiramvsmg&show_icons=true&hide_border=true&title_color=36BCF7&icon_color=7C3AED&text_color=ffffff&bg_color=0d1117" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiramvsmg&hide_border=true&background=0d1117&ring=36BCF7&fire=7C3AED&currStreakNum=ffffff&sideNums=ffffff" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiramvsmg&hide_border=true&background=0d1117&ring=36BCF7&fire=7C3AED&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
----
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiramvsmg&layout=compact&hide_border=true&title_color=36BCF7&text_color=ffffff&bg_color=0d1117" />
+</div>
+
 
 ## 📄 Resume
 <div align="center">
@@ -61,28 +64,28 @@
 </div>
 
 ---
-
-## 🤝 Connect With Me
-<div align="center">
-
-<a href="https://www.linkedin.com/in/abhiram-v-4a0055284/">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/abhiram__v__/">
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:abhiramvsmg270304@gmail.com">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
-</a>
-
-</div>
-
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=I+build+backend+systems+that+scale.;Let’s+create+reliable+software+together.;See+you+on+the+next+commit." />
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=2600&pause=900&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=850&lines=Building+systems+that+scale.;Designing+APIs+that+stay+reliable.;Let’s+create+something+impactful+together." />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/abhiram-v-4a0055284/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:abhiramvsmg270304@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/abhiramvsmg">
+  <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Focus-FastAPI%20%7C%20Backend%20Engineering%20%7C%20System%20Design-7C3AED?style=for-the-badge"/>
 
 </div>
