@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=800&lines=Building+Scalable+Backend+Systems;Designing+Secure+REST+APIs;FastAPI+%7C+Databases+%7C+System+Design;Code.+Ship.+Scale." />
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abhiramvsmg&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="profile views"/>
+
 </div>
 
 ---
@@ -19,10 +23,13 @@
 ## 🛠️ Core Tech Stack
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,java,js,react,postgres,mysql,mongodb,redis,docker,git,github,linux,postman&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,java,js,react,postgres,mysql,mongodb,nodejs,docker,git,github,postman,tailwind&perline=8" />
 
 </div>
 
+<br/>
+
+**Backend Tools:** Uvicorn • SQLAlchemy • JWT • Passlib
 ---
 
 ## ⭐ Featured Projects
@@ -44,7 +51,6 @@
 
 ---
 
-
 ## 📊 GitHub Snapshot
 <div align="center">
 
@@ -58,14 +64,13 @@
 
 </div>
 
+---
 
 ## 📄 Resume
 <div align="center">
   <a href="https://github.com/abhiramvsmg/abhiramvsmg/raw/main/Abhiram%27s%20resume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-36BCF7?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
   </a>
-  &nbsp;
-
 </div>
 
 ---
@@ -95,8 +100,6 @@
 
 **Backend systems that handle real-world load.  
 Clean APIs. Secure architecture. Scalable design.**
-
-
 
 <br/><br/>
 
