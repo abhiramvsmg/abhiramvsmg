@@ -106,3 +106,35 @@ Clean APIs. Secure architecture. Scalable design.**
 <img src="https://img.shields.io/badge/Currently%20Building-Jira--Style%20Bug%20Tracker-36BCF7?style=for-the-badge"/>
 
 </div>
+
+---
+
+<div align="center">
+
+## 🧭 Engineering with Intent
+
+ *Systems over shortcuts. Architecture over noise.*
+
+I build backend systems designed for scalability, security, and long-term maintainability.  
+Every project reflects structured thinking, production-grade design, and performance-focused engineering.
+
+From authentication flows to database modeling and API optimization —  
+I approach software as infrastructure, not just code.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Backend%20Engineering-36BCF7?style=for-the-badge&logo=python&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/System%20Design-7C3AED?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Scalable%20Architecture-111827?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Designing+for+scale.;Optimizing+for+performance.;Building+with+intent."/>
+
+<br/>
+
+### ⚡ Build. Ship. Scale.
+
+</div>
