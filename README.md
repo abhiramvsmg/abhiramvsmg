@@ -34,6 +34,22 @@
 
 ## ⭐ Featured Projects
 
+🛰️ AETHER-1 (Flagship Project)
+- High-fidelity **Digital Twin framework** simulating an autonomous 1U CubeSat mission  
+- Designed a **software-defined satellite (SDS)** architecture with real-time telemetry and system synchronization  
+- Implemented **edge AI (Random Forest)** for autonomous disaster detection using environmental data  
+- Built a **low-bandwidth communication system** using LoRa simulation with custom binary protocols and CRC validation  
+- Developed a **Qt-based Ground Control Station** featuring live telemetry graphs and 3D satellite attitude visualization  
+- Engineered **state-machine-driven power optimization** achieving microamp-level efficiency  
+
+💡 *Focus: System design, backend logic, real-time data processing, AI integration*
+
+📊 Highlights:
+- Real-time telemetry processing system  
+- AI-driven anomaly detection  
+- Low-power and low-bandwidth system simulation
+
+
 ### 🐞 Bug Tracker
 - Jira-style issue tracking platform
 - FastAPI backend with scalable architecture
@@ -43,11 +59,6 @@
 - Secure digital document signing system
 - PDF processing with audit trails
 - JWT authentication
-
-### 🤖 AI Job Tracker
-- Job application tracking dashboard
-- Pipeline-based job status tracking
-- React + Node.js + MongoDB
 
 ---
 
