@@ -81,7 +81,7 @@
 
 <div align="center">
 
-<a href="https://github.com/abhiramvsmg/abhiramvsmg/raw/main/RESUME.pdf">
+<a href="https://raw.githubusercontent.com/abhiramvsmg/abhiramvsmg/main/RESUME.pdf">
   <img src="https://img.shields.io/badge/View%20Resume-7C3AED?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
 </a>
 
@@ -108,13 +108,6 @@
 </a>
 
 </div>
----
-
-### ⚡ Build. Ship. Scale.
-
-**Backend systems that handle real-world load.  
-Clean APIs. Secure architecture. Scalable design.**  
-
 
 
 ## 🧭 Engineering with Intent
