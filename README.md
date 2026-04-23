@@ -77,28 +77,30 @@
 
 ---
 
-## 📄 Resume
-<div align="center">
-  <a href="https://github.com/abhiramvsmg/abhiramvsmg/raw/main/Abhiram%27s%20resume.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-36BCF7?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
-  </a>
-</div>
+## 📄 Resume & Contact
 
----
-
-## 🤝 Connect With Me
 <div align="center">
+
+<a href="https://github.com/abhiramvsmg/abhiramvsmg/raw/main/Abhiram%27s%20resume.pdf">
+  <img src="https://img.shields.io/badge/View%20Resume-7C3AED?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="mailto:abhiramvsmg270304@gmail.com">
+  <img src="https://img.shields.io/badge/Email-abhiramvsmg270304%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/abhiram-v-4a0055284/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Abhiram%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
-<a href="mailto:abhiramvsmg270304@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<a href="https://x.com/Abhiram_v_">
+  <img src="https://img.shields.io/badge/X-@Abhiram__v__-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.instagram.com/abhiram__v__/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-@abhiram__v__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
