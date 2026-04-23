@@ -49,12 +49,12 @@
 - AI-driven anomaly detection  
 - Low-power and low-bandwidth system simulation
 
-
+---
 ### 🐞 Bug Tracker
 - Jira-style issue tracking platform
 - FastAPI backend with scalable architecture
 - Role-based access and audit logs
-
+---
 ### 🖋️ DocSign
 - Secure digital document signing system
 - PDF processing with audit trails
@@ -109,31 +109,38 @@
 
 </div>
 
+## 🧭 Engineering Mindset
 
-## 🧭 Engineering with Intent
+**Systems over shortcuts. Architecture over noise.**
 
- *Systems over shortcuts. Architecture over noise.*
+I build backend systems with a focus on **scalability, reliability, and real-world constraints** — not just functionality.
 
-I build backend systems designed for scalability, security, and long-term maintainability.  
-Every project reflects structured thinking, production-grade design, and performance-focused engineering.
+* ⚙️ Design systems that handle **load, failure, and growth**
+* 🔐 Prioritize **security, validation, and data integrity**
+* ⚡ Optimize for **performance and efficient resource usage**
+* 🧩 Write **clean, modular, maintainable code**
 
-From authentication flows to database modeling and API optimization —  
-I approach software as infrastructure, not just code.
+> I treat software as **infrastructure — built to last, scale, and evolve.**
 
 <br/>
 
-<img src="https://img.shields.io/badge/Backend%20Engineering-36BCF7?style=for-the-badge&logo=python&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/System%20Design-7C3AED?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Scalable%20Architecture-111827?style=for-the-badge"/>
+<div align="center">
 
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Designing+for+scale.;Optimizing+for+performance.;Building+with+intent."/>
-
-
-
-### ⚡ Build. Ship. Scale.
+<img src="https://img.shields.io/badge/Scalable%20Systems-0F2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20Architecture-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Design-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance%20Engineering-111827?style=for-the-badge"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Design+for+scale.;Build+for+reliability.;Optimize+for+performance.;Engineer+with+intent."/>
+
+</div>
+
+---
+
+### ⚡ Build. Ship. Scale.
