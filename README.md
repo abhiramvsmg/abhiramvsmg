@@ -81,11 +81,15 @@
 
 <div align="center">
 
-<a href="https://github.com/abhiramvsmg/abhiramvsmg/raw/main/Abhiram%27s%20resume.pdf">
+<a href="https://github.com/abhiramvsmg/abhiramvsmg/raw/main/RESUME.pdf">
   <img src="https://img.shields.io/badge/View%20Resume-7C3AED?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
 </a>
 
-<br/><br/>
+<p>
+<sub>Click to view or download my full resume</sub>
+</p>
+
+<br/>
 
 <a href="mailto:abhiramvsmg270304@gmail.com">
   <img src="https://img.shields.io/badge/Email-abhiramvsmg270304%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -105,24 +109,12 @@
 
 </div>
 
----
-
-<div align="center">
-
 ### ⚡ Build. Ship. Scale.
 
 **Backend systems that handle real-world load.  
-Clean APIs. Secure architecture. Scalable design.**
+Clean APIs. Secure architecture. Scalable design.**  
 
 
-
-<img src="https://img.shields.io/badge/Currently%20Building-Jira--Style%20Bug%20Tracker-36BCF7?style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
 
 ## 🧭 Engineering with Intent
 
