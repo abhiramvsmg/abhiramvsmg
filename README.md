@@ -2,7 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:6A1B9A&height=260&section=header&text=ABHIRAM%20V&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend-Focused%20Full%20Stack%20Engineer&descSize=20&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=800&lines=Building+Scalable+Backend+Systems;Designing+Secure+REST+APIs;FastAPI+%7C+Databases+%7C+System+Design;Code.+Ship.+Scale." />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=800&lines=Building+Scalable+Backend+Systems;Designing+Secure+REST+APIs;FastAPI+%7C+Databases+%7C+System+Design;Code.+Ship.+Scale."/>
 
 <br/>
 
@@ -15,6 +17,7 @@
 </div>
 
 ## 🚀 About Me
+
 - Backend-focused full stack engineer, currently interning as a **Backend-Focused Full Stack Developer at Labmentix**
 - Building production-grade systems: a **Jira-style Bug Tracker**, an **AI-powered phishing detection system**, and a **CubeSat telemetry digital twin**
 - Strong in **Python, FastAPI, SQL, REST APIs, and backend design**
@@ -24,9 +27,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F7931E,100:6A1B9A&height=4"/>
 
 ## 🛠️ Core Tech Stack
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,java,js,ts,react,angular,postgres,mysql,mongodb,nodejs,docker,git,github,postman,tailwind&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,java,js,ts,react,angular,postgres,mysql,mongodb,nodejs,docker,git,github,postman,tailwind&perline=8"/>
 
 </div>
 
@@ -50,6 +54,7 @@ High-fidelity Digital Twin framework simulating an autonomous 1U CubeSat mission
 `Python` `FastAPI` `Edge AI` `Telemetry`
 
 🏆 1st Place, Major Project Exhibition
+
 🎖️ Sponsored under 49th KSCST Student Projects Programme
 
 </td>
@@ -103,11 +108,13 @@ Collaborative team management tool for task assignments and real-time notificati
 ## 📚 Publications
 
 **A Systematic Review of Federated Learning Algorithms for CubeSat and LEO Satellite Systems**
+
 Presented at ICKECS 2026 (April 25, 2026) — a systematic review of federated learning algorithms evaluating synchronization, communication efficiency, and security in LEO environments, with a decision matrix mapping algorithmic trade-offs to mission-critical satellite deployments.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F7931E,100:6A1B9A&height=4"/>
 
 ## 🏅 Certifications
+
 - AWS Academy Graduate – AWS Academy Cloud Foundations (Jan 2025)
 - Google Cloud Community – Certification of Participation (Sep 2024)
 - Data Science Internship – Certificate of Completion, Zephyr Technologies (Jun 2025)
@@ -117,14 +124,21 @@ Presented at ICKECS 2026 (April 25, 2026) — a systematic review of federated l
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6A1B9A,50:F7931E,100:FF6B35&height=4"/>
 
 ## 📊 GitHub Snapshot
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Primary%20Focus-Backend%20Engineering-FF6B35?style=for-the-badge"/>
+
 <br/>
+
 <img src="https://img.shields.io/badge/Core%20Stack-Python%20%7C%20FastAPI%20%7C%20SQL-F7931E?style=for-the-badge"/>
+
 <br/>
+
 <img src="https://img.shields.io/badge/Architecture-Scalable%20API%20Design-6A1B9A?style=for-the-badge"/>
+
 <br/>
+
 <img src="https://img.shields.io/badge/Currently%20Building-Jira--Style%20Bug%20Tracker-22C55E?style=for-the-badge"/>
 
 </div>
@@ -133,10 +147,19 @@ Presented at ICKECS 2026 (April 25, 2026) — a systematic review of federated l
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhiramvsmg&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=F7931E&text_color=ffffff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiramvsmg&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=F7931E&currStreakLabel=FF6B35" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=abhiramvsmg&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=F7931E&text_color=ffffff" height="165"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=abhiramvsmg&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=F7931E&currStreakLabel=FF6B35" height="165"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -151,33 +174,41 @@ Presented at ICKECS 2026 (April 25, 2026) — a systematic review of federated l
 <div align="center">
 
 <a href="https://abhiram-v-portfolio.web.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
+<br/>
 
 <a href="https://raw.githubusercontent.com/abhiramvsmg/abhiramvsmg/main/RESUME.pdf">
-  <img src="https://img.shields.io/badge/View%20Resume-6A1B9A?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Resume-6A1B9A?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
 </a>
 
-<p>
-<sub>Click to view my portfolio or download my full resume</sub>
-</p>
+<br/>
+
+<p><sub>Click to view my portfolio or download my full resume</sub></p>
 
 <br/>
 
 <a href="mailto:abhiramvsmg270304@gmail.com">
-  <img src="https://img.shields.io/badge/Email-abhiramvsmg270304%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-abhiramvsmg270304%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/abhiramv18/">
-  <img src="https://img.shields.io/badge/LinkedIn-Abhiram%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Abhiram%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br/>
 
 <a href="https://x.com/Abhiram_v_">
-  <img src="https://img.shields.io/badge/X-@Abhiram__v__-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-@Abhiram__v__-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
+<br/>
+
 <a href="https://www.instagram.com/abhiram__v__/">
-  <img src="https://img.shields.io/badge/Instagram-@abhiram__v__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-@abhiram__v__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -202,8 +233,17 @@ I build backend systems with a focus on **scalability, reliability, and real-wor
 <div align="center">
 
 <img src="https://img.shields.io/badge/Scalable%20Systems-6A1B9A?style=for-the-badge"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Backend%20Architecture-F7931E?style=for-the-badge"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/API%20Design-FF6B35?style=for-the-badge"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Performance%20Engineering-111827?style=for-the-badge"/>
 
 </div>
