@@ -18,11 +18,13 @@
 
 ## 🚀 About Me
 
-- Backend-focused full stack engineer, currently interning as a **Backend-Focused Full Stack Developer at Labmentix**
-- Building production-grade systems: a **Jira-style Bug Tracker**, an **AI-powered phishing detection system**, and a **CubeSat telemetry digital twin**
-- Strong in **Python, FastAPI, SQL, REST APIs, and backend design**
-- Co-author of a published paper on **federated learning for CubeSat/LEO satellite systems** (ICKECS 2026)
-- Interested in **system design, databases, and performance engineering**
+- Backend-focused full stack engineer who recently wrapped up an internship at **Labmentix**, where I worked as a Backend-Focused Full Stack & Lead Frontend Developer
+- Led frontend architecture and contributed to backend security on **PhishGuard**, an AI-powered phishing detection platform — found and patched a role-check vulnerability and a password-hash exposure bug, and resolved an authentication race condition
+- Shipped and maintained **AETHER-1**, a CubeSat digital twin with edge AI anomaly detection, which won 1st place at a Major Project Exhibition and was selected for the 49th KSCST Student Projects Programme
+- Co-author of a published paper on **federated learning for CubeSat/LEO satellite systems**, presented at ICKECS 2026
+- Comfortable across the stack but happiest in the backend — **Python, FastAPI, SQL, REST API design, and system security**
+- Actively building an open-source contribution portfolio — working real GitHub issues end-to-end (forking, branching, PRs, review cycles)
+- Interested in system design, databases, ML-driven applications, and satellite/embedded systems
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F7931E,100:6A1B9A&height=4"/>
 
@@ -30,13 +32,17 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,java,js,ts,react,angular,postgres,mysql,mongodb,nodejs,docker,git,github,postman,tailwind&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,java,js,ts,nextjs,react,angular,postgres,mysql,mongodb,nodejs,docker,git,github,postman,tailwind,vercel&perline=8"/>
 
 </div>
 
 <br/>
 
-**Backend Tools:** Uvicorn • SQLAlchemy • JWT • Passlib • RBAC • scikit-learn
+**Backend:** FastAPI • Uvicorn • SQLAlchemy • JWT Auth • RBAC • Passlib • scikit-learn
+
+**Frontend:** Next.js • React • TypeScript • Tailwind CSS • Framer Motion
+
+**Infra & Tools:** PostgreSQL • Neon • Vercel • Render • Docker • Git/GitHub • Postman
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6A1B9A,50:F7931E,100:FF6B35&height=4"/>
 
@@ -60,11 +66,11 @@ High-fidelity Digital Twin framework simulating an autonomous 1U CubeSat mission
 </td>
 <td width="50%" valign="top">
 
-### 🎯 AI Phishing Detector
+### 🛡️ PhishGuard
 
-ML-powered system to detect phishing emails and malicious URLs in real time. Trained detection model using scikit-learn / TensorFlow, served through a FastAPI backend for fast, scalable predictions.
+AI-powered phishing detection platform built during my Labmentix internship. Led frontend architecture and contributed to backend hardening — identified and fixed a missing role-check vulnerability and password-hash exposure in API responses, and resolved an authentication race condition. Deployed across a multi-service architecture with a full CI/CD-style release flow.
 
-`Python` `scikit-learn` `TensorFlow` `FastAPI`
+`Next.js` `TypeScript` `FastAPI` `PostgreSQL` `JWT` `Framer Motion`
 
 </td>
 </tr>
@@ -94,12 +100,13 @@ Collaborative team management tool for task assignments and real-time notificati
 
 ## 💼 Experience
 
-**Labmentix** — Backend-Focused Full Stack Developer Intern (Remote) · *Jan 2026 – Present*
+**Labmentix** — Backend-Focused Full Stack & Lead Frontend Developer Intern (Remote) · *Jan 2026 – Jul 2026*
+- Led frontend development and contributed to backend architecture on PhishGuard, an AI-powered phishing detection platform
 - Built scalable REST APIs and optimized backend workflows using FastAPI
-- Implemented JWT authentication and RBAC authorization systems
-- Ensured seamless integration between frontend and backend systems
+- Implemented JWT authentication and RBAC authorization systems; identified and fixed a security vulnerability involving missing role checks and exposed password hashes
+- Resolved an authentication race condition and ensured seamless integration between frontend and backend systems
 
-**Zephyr Technologies** — Data Science Intern (India) · *Jul 2025*
+**Zephyr Technologies** — Data Science Intern (Bengaluru, India) · *May 2025 – Jun 2025*
 - Built a predictive model for heart disease detection using EDA and preprocessing
 - Derived actionable insights from healthcare datasets using Pandas and Matplotlib
 
