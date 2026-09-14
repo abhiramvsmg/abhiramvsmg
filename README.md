@@ -70,7 +70,7 @@ capabilities:
 </div>
 
 <table>
-<tr><th>Layer</th><th>Tools</th><th>Proficiency Signal</th></tr>
+<tr><th>Layer</th><th>Tools</th><th>Signal</th></tr>
 <tr>
 <td><b>🔧 Backend</b></td>
 <td>FastAPI · Uvicorn · SQLAlchemy · JWT Auth · RBAC · Passlib · scikit-learn</td>
@@ -191,19 +191,11 @@ Presented at ICKECS 2026 — evaluates synchronization, communication efficiency
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:BD00FF,50:00F5FF,100:0D1117&height=3"/>
 
-## 🧊 3D Contribution Graph
+## 🔥 `~/contribution-heatmap`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhiramvsmg/abhiramvsmg/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abhiramvsmg/abhiramvsmg/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://ghchart.rshah.org/00F5FF/abhiramvsmg" width="100%"/>
 
 </div>
 
@@ -213,7 +205,7 @@ Presented at ICKECS 2026 — evaluates synchronization, communication efficiency
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=abhiramvsmg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhiramvsmg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&text_color=ffffff" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=abhiramvsmg&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=BD00FF&currStreakLabel=00F5FF" height="165"/>
 
 <br/><br/>
