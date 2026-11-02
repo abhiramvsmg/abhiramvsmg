@@ -154,8 +154,7 @@ Presented at ICKECS 2026 — evaluates synchronization, communication efficiency
 <a href="https://abhiram-v-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-visit%20site-BD00FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117"/></a>
 <a href="mailto:abhiramvsmg270304@gmail.com"><img src="https://img.shields.io/badge/Email-abhiramvsmg270304%40gmail.com-00F5FF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117"/></a>
 <a href="https://www.linkedin.com/in/abhiramv18/"><img src="https://img.shields.io/badge/LinkedIn-Abhiram%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://github.com/abhiramvsmg/abhiramvsmg/raw/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-BD00FF?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0D1117"/></a>
-
+<a href="https://github.com/abhiramvsmg/abhiramvsmg/raw/main/abhiram_cv.pdf"><img src="https://img.shields.io/badge/Resume-Download-BD00FF?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0D1117"/></a>
 <br/><br/>
 
 **Systems over shortcuts. Architecture over noise.**
